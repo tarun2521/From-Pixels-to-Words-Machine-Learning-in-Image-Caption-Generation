@@ -63,7 +63,7 @@ To run this project:
 
 1. Clone this repository and navigate to its directory:
    ```bash
-   [git clone <repository-url>](https://github.com/tarun2521/From-Pixels-to-Words-Machine-Learning-in-Image-Caption-Generation.git)
+   git clone https://github.com/tarun2521/From-Pixels-to-Words-Machine-Learning-in-Image-Caption-Generation.git
    ```
 2. Install the required libraries:
    ```bash
